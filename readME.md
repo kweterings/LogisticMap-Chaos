@@ -13,5 +13,4 @@ If necessary, jupyter can easily be installed via the Command Prompt or WSL to b
 If there are any question I'd be happy to answer any of them, hence contact me by any means possible.
 
 If you are looking for some more information on this topic, please refer to this amazing video made by youtuber Veritasium
-(this video served as information for me): <a href="https://www.youtube.com/watch?v=ovJcsL7vyrk&ab_channel=Veritasium" target="_blank">
-Link to Video</a>
+(this video served as information for me): [Link To Video](https://www.youtube.com/watch?v=ovJcsL7vyrk&ab_channel=Veritasium).
